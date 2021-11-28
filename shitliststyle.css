@@ -58,3 +58,18 @@
 					         calc(2 * (100% / 2)) 100%;					 
 			background-repeat: no-repeat;
 	}
+
+ html body #ctxmenu {
+              font-size: 3rem;
+                 word-break:break-all;
+              white-space: break-spaces;
+
+            }
+            #ctxmenu  div {
+               word-break:break-all;
+              white-space: break-spaces;
+
+            }  
+            body #ctxmenu > p.exec-count-on-leave{		
+              transition: background-image,background-size ${selfclosedelay_s}s linear;
+            }
