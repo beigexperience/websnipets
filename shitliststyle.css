@@ -51,7 +51,7 @@
 	
 	
 	.exec-count-on-leave-active#ctxmenu > p.exec-count-on-leave{
-		//background: var(--hl_c_bg_inset);
+		
 		border: 1px inset var(--hl_c_shadow_light);
 		    background-image: linear-gradient(var(--hl_c_font_active),var(--hl_c_font_active)), linear-gradient(var(--hl_c_bg_inset),var(--hl_c_bg_inset));
 		    background-size: calc(1 * (100% )) 100%, 
