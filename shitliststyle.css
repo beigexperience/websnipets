@@ -70,6 +70,4 @@
               white-space: break-spaces;
 
             }  
-            body #ctxmenu > p.exec-count-on-leave{		
-              transition: background-image,background-size ${selfclosedelay_s}s linear;
-            }
+           
